@@ -2,7 +2,6 @@ torch
 torchvision
 pandas
 matplotlib
+pytorch-lightning==2.0.2
 lightning-bolts==0.6.0.post1
-lightning-lite==1.8.0
-lightning-utilities==0.3.0
-pytorch-lightning==1.8.0
+git+https://github.com/PytorchLightning/lightning-bolts.git@master --upgrade
