@@ -10,6 +10,9 @@ An example is shown below. Running the following command creates 10 partitions C
 
 `python sampler.py --dataset="CIFAR10" --n_clients=10 --alpha=0.1`
 
-All the parameters can be changed directly in the IS-FedVAE.py file.
+## Pretrain models
+The pretrained VAE models are provided in the folder. These models are used as the initializations for the proposed method.
+
+All the parameters required for the experiments can be changed directly in the IS-FedVAE.py file.
 
 
