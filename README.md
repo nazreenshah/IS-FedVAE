@@ -1,0 +1,2 @@
+# IS-FedVAE
+Official code repository for the paper "IMPORTANCE SAMPLING BASED FEDERATED UNSUPERVISED REPRESENTATION LEARNING" accepted at IEEE ICASSP 2024, Seoul, South Korea.
