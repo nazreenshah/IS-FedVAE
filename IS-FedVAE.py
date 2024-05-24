@@ -28,7 +28,7 @@ import wandb
 import random
 
 
-sys.path.append(os.path.abspath('util/'))
+# sys.path.append(os.path.abspath('util/'))
 from DirichletData import clientDataset, load_data
 
 # %%
